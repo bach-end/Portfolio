@@ -1,0 +1,67 @@
+[
+  {
+    "id": "newsletter",
+    "title": "Newsletter Platform",
+    "shortDescription": "A scalable newsletter system delivering engaging content to subscribers.",
+    "description": "Built a comprehensive newsletter platform using React and Node.js that manages subscriber engagement and content delivery. The platform features automated email campaigns, subscriber management, analytics dashboard, and content scheduling. Implemented responsive design for optimal reading experience across all devices.",
+    "image": "https://source.unsplash.com/800x600/?newsletter,email",
+    "thumbnail": "https://source.unsplash.com/400x300/?newsletter,email",
+    "technologies": ["React", "Node.js", "MongoDB", "EmailJS", "AWS"],
+    "category": "Web Application",
+    "status": "Completed",
+    "duration": "3 months",
+    "details": {
+      "objectives": [
+        "Create a scalable newsletter management system",
+        "Implement automated email delivery",
+        "Build subscriber analytics and tracking",
+        "Develop content management interface"
+      ],
+      "challenges": [
+        "Ensuring high email deliverability rates",
+        "Managing large subscriber databases efficiently",
+        "Creating engaging email templates"
+      ],
+      "outcomes": [
+        "Achieved 95% email deliverability rate",
+        "Processed 10,000+ subscribers successfully",
+        "Increased subscriber engagement by 40%"
+      ],
+      "screenshots": [
+        "https://source.unsplash.com/800x600/?dashboard,newsletter",
+        "https://source.unsplash.com/800x600/?email,template",
+        "https://source.unsplash.com/800x600/?analytics,subscribers",
+        "https://source.unsplash.com/800x600/?mobile,newsletter"
+      ]
+    },
+    "contributions": {
+      "role": "BachEnd Team Collaboration",
+      "teamSize": 4,
+      "teamContributions": [
+        "Alex Chen: Led backend architecture and email delivery system",
+        "Sarah Rodriguez: Designed user interface and email templates",
+        "Marcus Johnson: Implemented database optimization and analytics",
+        "Elena Petrov: Built subscriber management and automation features"
+      ],
+      "timeline": [
+        { "phase": "Planning & Design", "duration": "2 weeks", "completed": true },
+        { "phase": "Backend Development", "duration": "6 weeks", "completed": true },
+        { "phase": "Frontend Development", "duration": "4 weeks", "completed": true },
+        { "phase": "Testing & Deployment", "duration": "2 weeks", "completed": true }
+      ]
+    },
+    "about": {
+      "architecture": "React frontend with Node.js backend, MongoDB for subscriber data, EmailJS for delivery, and AWS for hosting and scaling.",
+      "githubUrl": "https://github.com/bachend/newsletter-platform",
+      "liveDemo": "https://newsletter.bachend.com",
+      "caseStudy": "This project was our foundation as BachEnd, starting as a newsletter organization. The biggest challenge was ensuring reliable email delivery while maintaining subscriber engagement. We solved this through careful template design and deliverability optimization. This project taught us the importance of user experience in content delivery.",
+      "lessonsLearned": [
+        "Email deliverability requires careful technical considerations",
+        "User engagement metrics are crucial for content strategy",
+        "Scalable architecture is essential for growing subscriber bases",
+        "Content design significantly impacts user experience"
+      ]
+    },
+    "featured": true
+  }
+]

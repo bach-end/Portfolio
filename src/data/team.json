@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Jia Wei",
+    "role": "Founder & Lead Developer",
+    "bio": "Visionary founder of BachEnd with a passion for AI and innovative digital solutions. Jia Wei leads our technical vision and ensures our projects align with cutting-edge technology trends.",
+    "image": "https://source.unsplash.com/400x400/?founder,asian,portrait",
+    "skills": ["AI/ML", "React", "Node.js", "Python"],
+    "social": {
+      "linkedin": "https://linkedin.com/in/jiawei",
+      "github": "https://github.com/jiawei",
+      "twitter": "https://twitter.com/jiawei"
+    },
+    "experience": "8 years",
+    "location": "Singapore"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Rodriguez",
+    "role": "UI/UX Designer & Frontend Developer",
+    "bio": "Creative designer with a strong technical background. Sarah combines beautiful design with functional user experiences, bringing our projects to life with pixel-perfect implementations.",
+    "image": "https://source.unsplash.com/400x400/?designer,portrait",
+    "skills": ["Figma", "React", "CSS", "User Research"],
+    "social": {
+      "linkedin": "https://linkedin.com/in/sarahrodriguez",
+      "dribbble": "https://dribbble.com/sarahrodriguez",
+      "twitter": "https://twitter.com/sarahrodriguez"
+    },
+    "experience": "6 years",
+    "location": "Singapore"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Johnson",
+    "role": "Backend Developer & AI Specialist",
+    "bio": "Infrastructure expert with a focus on AI model training and deployment. Marcus ensures our applications run smoothly in production while integrating cutting-edge AI capabilities.",
+    "image": "https://source.unsplash.com/400x400/?developer,engineer",
+    "skills": ["Python", "AI/ML", "AWS", "MongoDB"],
+    "social": {
+      "linkedin": "https://linkedin.com/in/marcusjohnson",
+      "github": "https://github.com/marcusjohnson",
+      "twitter": "https://twitter.com/marcusjohnson"
+    },
+    "experience": "7 years",
+    "location": "Singapore"
+  },
+  {
+    "id": 4,
+    "name": "Elena Petrov",
+    "role": "Content Strategy & Newsletter Specialist",
+    "bio": "Content strategy expert who bridges the gap between technical implementation and user engagement. Elena ensures our newsletter platform delivers exceptional content experiences.",
+    "image": "https://source.unsplash.com/400x400/?content,writer,woman",
+    "skills": ["Content Strategy", "Newsletter Design", "SEO", "Analytics"],
+    "social": {
+      "linkedin": "https://linkedin.com/in/elenapetrov",
+      "github": "https://github.com/elenapetrov",
+      "twitter": "https://twitter.com/elenapetrov"
+    },
+    "experience": "5 years",
+    "location": "Singapore"
+  }
+]
