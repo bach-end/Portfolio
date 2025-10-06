@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BachEnd Team Portfolio
 
 A modern, responsive team portfolio website built with React.js, Vite, and Bootstrap 5. Features a multi-page application with React Router, Framer Motion animations, and a beautiful gradient theme showcasing the BachEnd development team's journey and projects.
@@ -231,3 +232,7 @@ If you have any questions or need help customizing the portfolio:
 ---
 
 **Made with ❤️ by [Your Name](https://github.com/yourusername)**
+=======
+# Portfolio
+This is the portfolio website of our team.
+>>>>>>> 9211ab7f53605f43b46f357ab233202c3ab7b462
