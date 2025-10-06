@@ -217,7 +217,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or need help customizing the portfolio:
 
-1. Check the [Issues](https://github.com/yourusername/portfolio/issues) page
+1. Check the [Issues](https://github.com/bach-end/portfolio/issues) page
 2. Create a new issue with detailed description
 3. Email: your.email@example.com
 
@@ -231,7 +231,7 @@ If you have any questions or need help customizing the portfolio:
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [BachEnd Team](https://github.com/bach-end)**
 =======
 # Portfolio
 This is the portfolio website of our team.
